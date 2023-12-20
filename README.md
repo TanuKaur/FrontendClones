@@ -5,3 +5,7 @@ Welcome to the repository of the clones of Razorpay and Discord Frontends showca
 Razorpay Clone
 
 Live Link: https://razorpay-landing-page-clone-web.netlify.app/
+
+Discord Clone
+
+Live Link: https://discord-clone-web-frontend.netlify.app/
